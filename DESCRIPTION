@@ -1,0 +1,19 @@
+Package: wordword
+Version: 0.0.0.9000
+Title: Thesaurus
+Description: Returns lexically related words
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Authors@R: person("Michael W.", "Kearney", ,
+      "kearneymw@missouri.edu", role = c("aut", "cre"),
+      comment = c(ORCID = "0000-0002-0730-4694"))
+RoxygenNote: 6.0.1.9000
+Imports: 
+    rlang,
+    dplyr,
+    httr,
+    jsonlite,
+    tibble,
+    purrr,
+    magrittr
