@@ -11,7 +11,7 @@ You can install the released version of wordword from
 [Github](https://github.com) with:
 
 ``` r
-devtools::install_packages("wordword")
+devtools::install_github("mkearney/wordword")
 ```
 
 ## thesaurus.com
