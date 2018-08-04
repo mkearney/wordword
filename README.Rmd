@@ -13,7 +13,9 @@ knitr::opts_chunk$set(
 )
 library(magrittr)
 ```
-# wordword
+# wordword <img src="man/figures/logo.png" width="160px" align="right" />
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 >  =≠ A simple little thesaurus package.
 
