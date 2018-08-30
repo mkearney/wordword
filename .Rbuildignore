@@ -1,3 +1,5 @@
+^docs$
+^_pkgdown\.yml$
 ^\.DS_Store$
 ^README\.Rmd$
 ^.*\.Rproj$
