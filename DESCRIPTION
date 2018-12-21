@@ -8,7 +8,7 @@ LazyData: true
 Authors@R: person("Michael W.", "Kearney", ,
       "kearneymw@missouri.edu", role = c("aut", "cre"),
       comment = c(ORCID = "0000-0002-0730-4694"))
-RoxygenNote: 6.0.1.9000
+RoxygenNote: 6.1.0
 Imports: 
     rlang,
     dplyr,
